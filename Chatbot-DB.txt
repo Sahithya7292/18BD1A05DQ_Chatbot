@@ -1,0 +1,25 @@
+Chatbot.issue
+{"_id":"6014400eb0aee6fe0fa5b0c8","phno":9879879879,"issue":"Network failure","status":"pending","date":"2021-01-29T17:04:14.409Z"}
+{"_id":"601441c3853aed01e0ee8281","phno":9879879873,"issue":"no internet","ticket":"tRSYs4S","status":"pending","date":"2021-1-29T22:41:31"}
+{"_id":"60144545fb409b3f846869e5","phno":9879879875,"issue":"poor connection","ticket":"o1uqss4","status":"pending","date":"2021-01-29","time":"10:56:29 PM"}
+{"_id":"601449e61fb8f931d8aa9a4a","phno":9879879871,"issue":"poor connection","ticket":"r93VsjB","status":"pending","date":"2021-01-29","time":"11:16:14 PM"}
+{"_id":"60144a8e29699543bcd13877","phno":9878799876,"issue":"network down","ticket":"ZSrqarA","status":"pending","date":"2021-01-29","time":"11:19:02 PM"}
+{"_id":"60144b8315edba09f4fc00bc","phno":9878799876,"issue":"poor connection","ticket":"Bro6Tjy","status":"pending","date":"2021-01-29","time":"11:23:07 PM"}
+{"_id":"6014bb25c0accc0dd0264bc3","phno":9879879875,"issue":"poor connection","ticket":"P7o099c","status":"pending","date":"2021-01-30","time":"7:19:25 AM"}
+{"_id":"6014c4658fc1a708c40ceaaa","phno":9879879871,"issue":"no internet","ticket":"reqV3iW","status":"pending","date":"2021-01-30","time":"7:58:53 AM"}
+{"_id":"6014e34c648723178c20eb26","phno":9879879871,"issue":"no internet","ticket":"kKiJYcs","status":"pending","date":"2021-01-30","time":"10:10:44 AM"}
+{"_id":"60151a909c59e70654830a18","phno":9879879872,"issue":"poor connection","ticket":"6KohsQ8","status":"pending","date":"2021-01-30","time":"2:06:32 PM"}
+{"_id":"601525ff1e9ee10f30a39691","phno":9879879871,"issue":"no internet","ticket":"n7FipI2","status":"pending","date":"2021-01-30","time":"2:55:19 PM"}
+{"_id":"601526cbb071fe36c89f66a4","phno":9879879871,"issue":"no internet","ticket":"25FumEh","status":"pending","date":"2021-01-30","time":"2:58:43 PM"}
+{"_id":"601527a9b071fe36c89f66a5","phno":9879879871,"issue":"connection problem","ticket":"ajvPZHY","status":"pending","date":"2021-01-30","time":"3:02:25 PM"}
+{"_id":"601527f2b071fe36c89f66a6","phno":1234,"issue":"no internet","ticket":"zlMjsU6","status":"pending","date":"2021-01-30","time":"3:03:38 PM"}
+{"_id":"60152812b071fe36c89f66a7","phno":9879879871,"issue":"slow internet","ticket":"XQ5y6j3","status":"pending","date":"2021-01-30","time":"3:04:10 PM"}
+{"_id":"60152cffb8056a00dc7d1c24","phno":9879879871,"issue":"no internet","ticket":"2EutcMJ","status":"pending","date":"2021-01-30","time":"3:25:11 PM"}
+{"_id":"60153699f530a73face2c604","phno":9879879871,"issue":"poor connection","ticket":"AzURK8d","status":"pending","date":"2021-01-30","time":"4:06:08 PM"}
+
+Chatbot.user
+{"_id":"6012c936191514cf11e50a0e","uname":"Vishnu","phno":9879879871}
+{"_id":"601445b715531c3e1044179b"," uname":"Viswa","phno":9879879873}
+{"_id":"601445f615531c3e1044179c","uname":"Jishnu","phno":9879879875}
+{"_id":"6015083ba896f51c54aebe87","uname":"Ravi","phno":9879879872}
+{"_id":"601508cea896f51c54aebe88","uname":"Sandhya","phno":9879879874}
